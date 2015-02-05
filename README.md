@@ -1,2 +1,0 @@
-# estools
-Simple elasticsearch tools.
